@@ -92,6 +92,7 @@ A curated list of awesome job boards.
 
 ## Remote
 
+* [Tarta.ai](https://tarta.ai/) - Tarta bot monitors remote jobs and matches job seekers with the best ones. 
 * [Jobspresso](https://jobspresso.co/remote-work/)
 * [We Work Remotely](https://weworkremotely.com/)
 * [Workaline](https://workaline.com/)
